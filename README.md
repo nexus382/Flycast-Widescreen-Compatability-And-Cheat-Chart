@@ -62,10 +62,12 @@ Depending on the type of widescreen support, follow one of these methods:
 
 This repository is organized into system-specific sections:
 
-- [Dreamcast Games](./dreamcast/)
-- [Naomi 1 Games](./naomi1/)
-- [Naomi 2 Games](./naomi2/)
+- [Dreamcast Games](https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/blob/main/Dreamcast%20Widescreen.md)
+
+- [Naomi Games](https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/blob/main/Naomi%20Widescreen.md)
+
 - [Atomiswave Games](./atomiswave/)
+
 - [System SP Games](./systemsp/)
 
 Within each section, you'll find separate files for widescreen codes and 60 FPS codes.
