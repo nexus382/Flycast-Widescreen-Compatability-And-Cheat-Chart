@@ -47,16 +47,16 @@ Depending on the type of widescreen support, follow one of these methods:
 
 ## Sample Entries
 
-| Game | Region | Native WS | WS Hack | WS Cheat | Codes/Notes |
-|------|--------|-----------|---------|----------|-------------|
-| Sega Worldwide Soccer 2000 Euro Edition | EU | ??? | ??? | ??? | |
-| Sega Worldwide Soccer 2001 | EU | ??? | ??? | ??? | |
-| Segagaga | JP | ??? | ??? | Perfect | 02AF57DC 43F00000, 02AF580C 3F400000, 022122A0 3F400000 |
-| Seikai no Monshou | JP | ??? | ??? | ??? | |
-| Seven Mansions | JP | ??? | ??? | ??? | |
-| Seventh Cross Evolution | NA | ??? | ??? | Perfect | 0277A178 3F400000 |
-| Shadow Man | NA | ??? | ??? | Perfect | 022C03F4 3F400000 |
-| Shadow Man | EU | ??? | ??? | Perfect | 022C03F8 44558000 |
+| Game | Region | Native WS | WS Hack | WS Cheat |  60fps   |    Codes/Notes     |
+|------|--------|-----------|---------|----------|----------|--------------------|
+| Sega Worldwide Soccer 2000 Euro Edition | EU | ??? | ??? | ??? | ??? | |
+| Sega Worldwide Soccer 2001 | EU | ??? | ??? | ??? | ??? | |
+| Segagaga | JP | ??? | ??? | Perfect | ??? | 02AF57DC 43F00000, 02AF580C 3F400000, 022122A0 3F400000 |
+| Seikai no Monshou | JP | ??? | ??? | ??? |??? | |
+| Seven Mansions | JP | ??? | ??? | ??? | ??? | |
+| Seventh Cross Evolution | NA | ??? | ??? | Perfect | ??? | 0277A178 3F400000 |
+| Shadow Man | NA | ??? | ??? | Perfect | ??? | 022C03F4 3F400000 |
+| Shadow Man | EU | ??? | ??? | Perfect | ??? | 022C03F8 44558000 |
 
 ## Repository Structure
 
