@@ -74,8 +74,7 @@ Within each section, you'll find separate files for widescreen codes and 60 FPS 
 
 ## Contributing
 
-If you've tested a game not listed here or found different results for existing entries, please consider contributing! You can submit a pull request or open an issue with your findings.
-
+If you've tested a game not listed here or found different results for existing entries, please consider contributing! You can submit a pull request or open an issue with your findings. It is VERY easy. You simply change the ??? block to one of the 3 answers: Perfect, Clipping, or None. Everything "Native" SHOULD be done, but anything with ??? means it has not been found. Testing takes seconds. Ensure if you are using cheats, you reload the scene if nothing seems to change. Some games require a fresh load, so going to the main menu then going back into the game is enough in most cases. NOTE: MENUS TEND TO NOT CHANGE EVEN IF THE CODE WORKS, so make sure you test IN-GAME PLAY ONLY.
 ## Acknowledgements
 
 This project aims to compile and preserve the work of many community members who have discovered and shared these codes. If you're responsible for discovering any of these codes and would like credit, please reach out.
