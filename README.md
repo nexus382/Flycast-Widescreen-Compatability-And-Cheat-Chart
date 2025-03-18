@@ -14,7 +14,7 @@ Each chart includes the following information:
 - **Native Widescreen**: Whether the game supports widescreen natively
 - **Widescreen Hack**: If widescreen can be enabled via emulator hacks
 - **Widescreen Cheat**: Status of widescreen cheat compatibility
-- **60 FPS**: Status of 60 fps cheats, only NON game breaking codes allowed. If this ruins the game by breaking phsycs or timers, and makes the game worse off, we will not accept them
+- **60 FPS**: Shows if a game is Native 60 FPS with "NATIVE", has a 60 FPS code in which case the code will be posted in the cell, or "???" as we have no code and it is not native 60 fps. Only NON game breaking codes allowed. If this ruins the game by breaking phyics or timers, and makes the game worse off, we will not accept them
 - **Codes/Notes**: The actual Codebreaker codes for Widescreen cheat codes and any additional information
 
 ## Status Legend
