@@ -14,7 +14,7 @@ Each chart includes the following information:
 - **Native Widescreen**: Whether the game supports widescreen natively
 - **Widescreen Hack**: If widescreen can be enabled via emulator hacks
 - **Widescreen Cheat**: Status of widescreen cheat compatibility
-- **60 FPS**: Shows if a game is Native 60 FPS with "NATIVE", has a 60 FPS code in which case the code will be posted in the cell, or "???" as we have no code and it is not native 60 fps. Only NON game breaking codes allowed. If this ruins the game by breaking phyics or timers, and makes the game worse off, we will not accept them
+- **60 FPS**: Shows if a game is Native 60 FPS with "NATIVE", has a 60 FPS code in which case the code will be posted in the cell, or "???" as we have no code and it is not native 60 fps. 
 - **Codes/Notes**: The actual Codebreaker codes for Widescreen cheat codes and any additional information
 
 ## Status Legend
@@ -45,6 +45,11 @@ Depending on the type of widescreen support, follow one of these methods:
    - Give it a name like "Widescreen"
    - Each line will auto-save
    - Make sure to enable each cheat box that's created (one box per code in format "XXXXXXXX XXXXXXXX")
+
+### For 60 FPS codes
+1. All Native games have been filled in by me already, so now we just need to test 60 fps codes, and add them to the cell.
+2. Go to "Cheats" in the Flycast menu.
+3. Add subsequent cheat/cheats and ensure gameplay is proper.
 
 ## Sample Entries
 
