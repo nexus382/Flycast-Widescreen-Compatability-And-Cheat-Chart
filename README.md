@@ -1,5 +1,9 @@
 # Flycast Master Widescreen Compatibility and Cheat Chart
 
+
+## NOTE: THIS IS A W.I.P, AND THE ONLY WAY IT WILL GET "FINISHED", IS IF YOU ALL HELP. TEST ANY CODES YOU FIND ONLINE IN FLYCAST, IT TAKES MOMENTS, AND TEST THE WIDESCREEN HACK IN FLYCAST FOR ANY GAME YOU PLAY, AND THEN WITH JUST A FEW CLICKS AND ABOUT 20 SECONDS OF YOUR TIME, SUBMIT YOUR FINDINGS! TYPE OUT "PERFECT" OR "CLIPPING" IN THE CORRECT BOX AND SUBMIT THE EDIT!
+
+
 ## Overview
 
 Welcome to the most comprehensive resource available for Flycast emulator widescreen and 60 FPS codes. This repository contains detailed compatibility charts for Dreamcast, Atomiswave, Naomi 1 & 2, and System SP games. Whether you're looking to enhance your retro gaming experience with widescreen support or smoother framerates, you'll find everything you need here.
