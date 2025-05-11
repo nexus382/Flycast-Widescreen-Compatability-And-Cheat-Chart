@@ -74,11 +74,13 @@ This repository is organized into system-specific sections:
 
 - [Dreamcast Games](https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/blob/main/Dreamcast%20Widescreen.md)
 
-- [Naomi Games](https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/blob/main/Naomi%20Widescreen.md)
+- [Naomi Games](https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/blob/main/arcade%widescreen.md#naomi)
 
-- [Atomiswave Games](./atomiswave/)
+- [Naomi 2 Games](https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/blob/main/arcade%widescreen.md#naomi-2)
 
-- [System SP Games](./systemsp/)
+- [Atomiswave Games](https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/blob/main/arcade%widescreen.md#atomiswave)
+ 
+- [System SP Games](https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/blob/main/arcade%widescreen.md#system-sp)
 
 Within each section, you'll find separate files for widescreen codes and 60 FPS codes.
 
