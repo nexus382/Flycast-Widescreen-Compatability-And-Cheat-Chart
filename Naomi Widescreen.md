@@ -53,6 +53,8 @@
 | SPIKERS BATTLE | Japan | ??? | ??? | Perfect | 023626C4 43A551B0 |
 | TOY FIGHTER | World | ??? | ??? | Perfect | 02133E58 43700000 |
 | TOY FIGHTER | US | ??? | ??? | Perfect | 02133E58 43700000 |
+| VF4 EVO REV B | Japan (vf4evo) | ??? | ??? | Perfect | 02029A34 3FE38E39 |
 | VF4 FINAL TUNED | Japan | ??? | ??? | Perfect | 0202B834 3FE38E39<br>020AFB90 3FE38E39 |
+| VIRTUAL ON:OT MSBS 5.66  | Japan (vonot) | ??? | ??? | Perfect | 027A4808 43700000 |
 | ZOMBIE REVENGE | Japan (zombrvn) | ??? | ??? | Perfect | 027A4808 43700000 |
 | ZOMBIE REVENGE | Japan (zombrvno) | ??? | ??? | Perfect | 027A2E50 43700000 |
