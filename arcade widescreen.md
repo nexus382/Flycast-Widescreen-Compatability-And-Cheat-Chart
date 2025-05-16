@@ -399,8 +399,8 @@
 |  Virtua Fighter 4 Ver. C                                             | vf4       | naomi2   | GDS-0012C  | Rev C                    |   ???        | ???                                  | ???                     |
 |  Virtua Fighter 4 Ver. B                                             | vf4b      | vf4      | GDS-0012B  | Rev B                    |   ???        | ???                                  | ???                     |
 |  Virtua Fighter 4 Evolution Ver. B                                   | vf4evo    | naomi2   | GDS-0024C  | Rev B, Japan             |   ???        | Widescreen Cheat <br /> Perfect      | 02029A34 3FE38E39       |
-|  Virtua Fighter 4 Evolution Ver. A                                   | vf4evoa   | vf4evo   | GDS-0024A  | Japan                    |   ???        | Widescreen Cheat <br /> Perfect ?    | 02029A34 3FE38E39 ?     |
-|  Virtua Fighter 4 Evolution Ver. B                                   | vf4evob   | vf4evo   | GDS-0024B  | Ver. B, Japan, alt       |   ???        | Widescreen Cheat <br /> Perfect ?    | 02029A34 3FE38E39 ?     |
+|  Virtua Fighter 4 Evolution Ver. A                                   | vf4evoa   | vf4evo   | GDS-0024A  | Japan                    |   ???        | ???                                  | ???                     |
+|  Virtua Fighter 4 Evolution Ver. B                                   | vf4evob   | vf4evo   | GDS-0024B  | Ver. B, Japan, alt       |   ???        | Widescreen Cheat <br /> Perfect      | 02029A34 3FE38E39       |
 |  Virtua Fighter 4                                                    | vf4o      | vf4      | GDS-0012   |                          |   ???        | ???                                  | ???                     |
 |  Virtua Fighter 4 Final Tuned Ver. B                                 | vf4tuned  | naomi2   | GDS-0036F  | Ver. B                   |   ???        | ???                                  | ???                     |
 |  Virtua Fighter 4 Final Tuned                                        | vf4tuneda | vf4tuned | GDS-0036A  | Rev A                    |   ???        | ???                                  | ???                     |
